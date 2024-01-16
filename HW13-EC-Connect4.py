@@ -1,3 +1,8 @@
+'''
+An extra credit homework assignment; I programmed a fully functional Connect 4 game that can be played by two people locally.
+Uncommenting the last two lines of code allows for one to run the program and play the game on their device.
+'''
+
 class Board:
 
     def __init__(self, width=7, height=6):

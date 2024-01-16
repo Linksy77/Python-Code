@@ -174,5 +174,5 @@ class Board:
                     print(self)
                 ox = "X"
 
-b = Board()
-b.hostGame()
+# b = Board()
+# b.hostGame()
